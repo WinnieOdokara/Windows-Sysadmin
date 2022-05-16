@@ -19,7 +19,7 @@ An LLMNR-enabled Windows machine may automatically trust responses from anyone i
 
 2. An account lockout disables access to an account for a set period, after a specific number of failed login attempts. This policy defends against brute-force attacks, in which attackers can enter a million passwords in just a few minutes.
 
-![](Images%5Caccount-lockout.jpg)
+![](Images/account-lockout.jpg)
 <br>
 <br>
 <br>
@@ -43,7 +43,7 @@ foreach ($item in $collection) {
 ```
 <br>
 
-![](Images%5Cpowershell-logging-n-transcription.jpg)
+![](Images/powershell-logging-n-transcription.jpg)
 <br>
 <br>
 <br>
@@ -55,7 +55,7 @@ foreach ($item in $collection) {
 
 `Get-Acl <filename>` will return the specific file's ACL.
 
-![](Images%5Cenummerate-access-list.jpg)
+![](Images/enumerate-access-list.jpg)
 <br>
 <br>
 <br>
@@ -65,4 +65,4 @@ foreach ($item in $collection) {
 <br>
 <br>
 
-![](Images%5Cverify-powershell-logging-GPO.jpg)
+![](Images/verify-powershell-logging-GPO.jpg)
